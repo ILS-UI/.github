@@ -1,5 +1,5 @@
 # Intelligent and Learning Systems (ILS) Research Laboratory  
-**University of Isfahan**
+**Artificial Intelligence Department, Faculty of Computer Engineering, University of Isfahan**
 
 ## About Us
 
@@ -16,3 +16,10 @@ The mission of Intelligent and Learning Systems (ILS) Research Laboratory is to 
 - **Computational Intelligence**
 - **Data Science**
 - **Image/Video/Signal/Speech/Text Analysis and Understanding**
+
+## Lab Members
+
+- [**Dr. Peyman Adibi**](https://eng.ui.ac.ir/~adibi)
+- [**Dr. Hossein Karshenas**](https://engold.ui.ac.ir/~h.karshenas/)
+- [**Dr. Hamidreza Baradaran**](https://engold.ui.ac.ir/~hrb.kashani/)
+- **Dr. Saeed Ehsani**
